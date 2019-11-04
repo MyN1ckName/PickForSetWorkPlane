@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>PickForSetWorkPlane.dll</Assembly>
+    <ClientId>c74846aa-9b37-4d41-ac4b-ea3981bce2e5</ClientId>
+    <FullClassName>PickForSetWorkPlane.App</FullClassName>
+    <Name>PickForSetWorkPlane</Name>
+    <VendorId>Egorov.A</VendorId>
+    <VendorDescription>Egorov.A, www.github.com/MyN1ckName/PickForSetWorkPlane</VendorDescription>
+  </AddIn>
+</RevitAddIns>

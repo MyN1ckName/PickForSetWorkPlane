@@ -56,10 +56,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="icon.ico" />
+    <None Include="PickForSetWorkPlane.addin" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="PickForSetWorkPlane.addin" />
+    <Resource Include="icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
